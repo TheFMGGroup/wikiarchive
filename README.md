@@ -1,7 +1,17 @@
 <html>
-<header>
-<title>A testing area- Wow!</title>
-</header>
+<head>
+<link rel="stylesheet" href="stylesheet.css">
+</head>
+    
+<body>
+    
+<div class="topnav">
+  <a href="https://thefmggroup.github.io">Home</a>
+  <a class="active" href="wikiarchives">Wikipedia Archives</a>
+  <a href="https://thefmggroup.github.io/contact">Contact</a>
+  <a href="thefmggroup.github.io/about">About</a>
+</div> 
+    
 <p>Document 1 of infinite
 </p>
 <h2>Apple Inc wiki 2021</h2>
@@ -149,3 +159,5 @@
     Ubuntu is developed by Canonical,[22] and a community of other developers, under a meritocratic governance model.[7][23] Canonical provides security updates and support for each Ubuntu release, starting from the release date and until the release reaches its designated end-of-life (EOL) date.[7][24][25] Canonical generates revenue through the sale of premium services related to Ubuntu and donations from those who download the Ubuntu software.[26][27][28]
     
     Ubuntu is named after the Nguni philosophy of ubuntu, which Canonical indicates means "humanity to others" with a connotation of "I am what I am because of who we all are".[7] </p>
+</body>
+</html>
