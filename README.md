@@ -9,7 +9,7 @@
   <a href="https://thefmggroup.github.io">Home</a>
   <a class="active" href="wikiarchives">Wikipedia Archives</a>
   <a href="https://thefmggroup.github.io/contact">Contact</a>
-  <a href="thefmggroup.github.io/about">About</a>
+  <a href="https://thefmggroup.github.io/about">About</a>
 </div> 
     
 <p>Document 1 of infinite
